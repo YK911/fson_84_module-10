@@ -64,3 +64,13 @@
    https://tasty-treats-backend.p.goit.global/api/recipes/popular
 4. Перелік всіх рецептів -
    https://tasty-treats-backend.p.goit.global/api/recipes
+
+---
+
+[Посилання на макет 📸](https://www.figma.com/file/nC7Vl1JvKWKNYWR5qmyInn/Mini-project?type=design&node-id=0%3A5&mode=design&t=Mg0xfLjBqwmxRjdG-1)
+
+## Parcel template
+
+Цей проект був створений за допомогою **Parcel**. Для ознайомлення та
+налаштування додаткових можливостей зверніться до
+[документації](https://parceljs.org/).
